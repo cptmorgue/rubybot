@@ -1,4 +1,4 @@
-# canelita-bot 🐾
+# rubybot
 
 A simple Discord bot I'm building to learn Ruby.
 
